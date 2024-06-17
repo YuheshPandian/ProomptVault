@@ -47,7 +47,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to the developers of the LLMs for their incredible work.
 - Thanks to all contributors who have shared their prompts with the community.
-- Special thanks to [Your Name] for initiating this project.
 
 ---
 
