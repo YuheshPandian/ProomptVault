@@ -32,6 +32,27 @@ Large Language Models (LLMs) like GPT-4 are powerful tools capable of understand
 
 </details> 
 
+<details>  
+  <summary>📖Once upon a time</summary>  
+
+  > Generate a short story in the [genre] genre featuring a main character named [name], who faces [conflict or challenge], ensuring an engaging plot with a clear beginning, middle, and end. Use vivid descriptions, emotions, and immersive world-building while maintaining a unique and creative voice. The story should include dynamic character growth, a compelling twist, and a strong resolution, keeping it suitable for [age group or audience]. Optionally, incorporate a moral lesson, an open-ended conclusion, or a cliffhanger for added intrigue. 
+
+</details>  
+
+<details>  
+  <summary>🌍Let's be philosophical</summary>  
+
+  > Explore the concept of [philosophical topic], presenting arguments from multiple perspectives while maintaining a balanced and thought-provoking discussion. Begin by defining the topic and providing historical or cultural context, then analyze its relevance in modern society using logical reasoning, real-world examples, and references to famous philosophers or thinkers where applicable. Keep the discussion engaging by avoiding unnecessary jargon, and conclude with an open-ended question or thought experiment to encourage deeper contemplation.   
+
+</details> 
+
+<details>  
+  <summary>🚢Travel Guide to be hired</summary>  
+
+  > Write a comprehensive travel guide for [destination], covering must-visit attractions, cultural insights, and practical travel tips while maintaining a friendly and informative tone. Start with an engaging introduction highlighting what makes the location unique, then provide recommendations for top sights, local cuisine, and hidden gems. Include advice on the best times to visit, transportation options, and safety considerations, and optionally add historical background, fun facts, or personal anecdotes to make the guide more immersive.  
+
+</details>
+
 ## Contribution Guidelines
 
 We welcome contributions from the community! If you have a prompt that you would like to add to **ProomptVault**, please follow these steps:
