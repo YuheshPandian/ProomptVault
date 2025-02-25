@@ -25,7 +25,12 @@ Large Language Models (LLMs) like GPT-4 are powerful tools capable of understand
 
 ## Prompts
 
-<!-- To be Worked on!!!!-->
+<details>  
+  <summary>📝Generate a blog from scratch</summary>  
+  
+  > Write a well-structured and engaging blog post on **[topic]** with a compelling introduction that hooks the reader, followed by key points presented in a clear and informative manner. Use a conversational yet professional tone suitable for **[target audience]**, incorporating real-world examples, data, or case studies where relevant. Ensure logical flow with proper subheadings, and conclude with a strong summary that highlights key takeaways and encourages reader engagement, such as a call-to-action or discussion question. Optionally, optimize for SEO by including relevant keywords, format responses in Markdown or HTML if needed, and start with a powerful quote or statistic for impact.
+
+</details> 
 
 ## Contribution Guidelines
 
