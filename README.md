@@ -40,7 +40,7 @@ Large Language Models (LLMs) like GPT-4 are powerful tools capable of understand
 </details>  
 
 <details>  
-  <summary>🌍Dear epistemologist</summary>  
+  <summary>🌍Think deep</summary>  
 
   > Explore the concept of [philosophical topic], presenting arguments from multiple perspectives while maintaining a balanced and thought-provoking discussion. Begin by defining the topic and providing historical or cultural context, then analyze its relevance in modern society using logical reasoning, real-world examples, and references to famous philosophers or thinkers where applicable. Keep the discussion engaging by avoiding unnecessary jargon, and conclude with an open-ended question or thought experiment to encourage deeper contemplation.   
 
