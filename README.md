@@ -33,7 +33,11 @@ Large Language Models (LLMs) like GPT-4 are powerful tools capable of understand
 </details> 
 
 <details>  
-  <summary>📖Once upon a time</summary>  
+  <summary>
+    
+    ## 📖Once upon a time
+    
+  </summary>  
 
   > Generate a short story in the [genre] genre featuring a main character named [name], who faces [conflict or challenge], ensuring an engaging plot with a clear beginning, middle, and end. Use vivid descriptions, emotions, and immersive world-building while maintaining a unique and creative voice. The story should include dynamic character growth, a compelling twist, and a strong resolution, keeping it suitable for [age group or audience]. Optionally, incorporate a moral lesson, an open-ended conclusion, or a cliffhanger for added intrigue. 
 
