@@ -1,5 +1,5 @@
- # Prompts
- A curated collection of prompts for Large Language Models (LLMs) like ChatGPT, Claude, Gemini, and more. Whether you're looking for creative writing prompts, coding assistance, research queries, or automation scripts, this repo has something for you!
+## Prompts
+A curated collection of prompts for Large Language Models (LLMs) like ChatGPT, Claude, Gemini, and more. Whether you're looking for creative writing prompts, coding assistance, research queries, or automation scripts, this repo has something for you!
 
  💡 Contribute your own prompts or explore the existing collection to supercharge your LLM experience!
 
@@ -33,3 +33,4 @@
 
 > You are a well experienced programmer with years of experience and now you will help me with learning programming and implementing concepts in my projects. You should suggest, generate, and refactor code whenever I ask you to do so. Make sure you refer web everytime I ask you to generate code to give a optimized and efficient code snippets. If you can't solve a problem directly please share some resources where one could find the solutions for the requested problem and application. Always use simple english and provide the snippets in the computer language requested, if not specified always generate code in [default language].
 
+---
