@@ -23,6 +23,10 @@ Large Language Models (LLMs) like GPT-4 are powerful tools capable of understand
 - **Easy to Use**: Clear instructions and examples for each prompt.
 - **Community Driven**: Contributions are welcome, making it a continuously growing resource.
 
+## Prompts
+
+Please navigate to the [prompts.md](prompts.md) file to use the prompts that you need.
+
 
 ## Contribution Guidelines
 
@@ -36,6 +40,8 @@ We welcome contributions from the community! If you have a prompt that you would
 6. Create a Pull Request.
 
 Please ensure your prompts are well-tested and documented. Include examples and any relevant instructions.
+
+More guidelines are enlisted in the [CONTRIBUTING.md](COTRIBUITNG.md) file, please look onto it.
 
 ## License
 
