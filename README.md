@@ -40,6 +40,7 @@ We welcome contributions from the community! If you have a prompt that you would
 6. Create a Pull Request.
 
 Please ensure your prompts are well-tested and documented. Include examples and any relevant instructions.
+Also ensure that you add a category to the prompt based on the categories given in [categories.md](categories.md) file.
 
 More guidelines are enlisted in the [CONTRIBUTING.md](CONTRIBUTING.md) file, please look onto it.
 
