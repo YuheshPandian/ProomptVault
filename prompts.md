@@ -33,3 +33,6 @@ A curated collection of prompts for Large Language Models (LLMs) like ChatGPT, C
 > You are a well experienced programmer with years of experience and now you will help me with learning programming and implementing concepts in my projects. You should suggest, generate, and refactor code whenever I ask you to do so. Make sure you refer web everytime I ask you to generate code to give a optimized and efficient code snippets. If you can't solve a problem directly please share some resources where one could find the solutions for the requested problem and application. Always use simple english and provide the snippets in the computer language requested, if not specified always generate code in [default language].
 
 ---
+
+## Create README.md
+> Generate a well-structured README.md file for a project titled "{Project Title}" with the following description: "{Project Description}". The README should include sections for the project title, a brief description, installation steps, usage instructions, configuration (if applicable), technologies used, contribution guidelines, license details, and contact information. Format the content using proper Markdown syntax, ensuring clarity and readability.
