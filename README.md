@@ -41,7 +41,7 @@ We welcome contributions from the community! If you have a prompt that you would
 
 Please ensure your prompts are well-tested and documented. Include examples and any relevant instructions.
 
-More guidelines are enlisted in the [CONTRIBUTING.md](COnTRIBUITNG.md) file, please look onto it.
+More guidelines are enlisted in the [CONTRIBUTING.md](CONTRIBUITNG.md) file, please look onto it.
 
 ## License
 
