@@ -7,7 +7,7 @@ Welcome to **ProomptVault**, your go-to repository for curated prompts to use wi
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Prompts](#prompts)
+- [Prompts](prompts.md)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -41,11 +41,15 @@ We welcome contributions from the community! If you have a prompt that you would
 
 Please ensure your prompts are well-tested and documented. Include examples and any relevant instructions.
 
-More guidelines are enlisted in the [CONTRIBUTING.md](COTRIBUITNG.md) file, please look onto it.
+More guidelines are enlisted in the [CONTRIBUTING.md](COnTRIBUITNG.md) file, please look onto it.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## CODE OF CONDUCT
+
+Make sure you follow our rules and regulations by reading the [code of conduct](CODE_OF_CONDUCT.md)
 
 ## Acknowledgements
 
