@@ -26,7 +26,7 @@
 | Cooking & Recipes         | ![Cooking](https://img.shields.io/badge/Category-Cooking-ff8c00) | `![Cooking](https://img.shields.io/badge/Category-Cooking-ff8c00)` |
 | Travel & Exploration      | ![Travel](https://img.shields.io/badge/Category-Travel-00ced1) | `![Travel](https://img.shields.io/badge/Category-Travel-00ced1)` |
 
-Use the corresponding badge next to a prompt to indicate its category.
+Use the corresponding badge next to a prompt to indicate its category. You can do so by copy->pasting the code for the respective category to add the badge to your prompt.
 
 Happy organizing! 🚀
 
