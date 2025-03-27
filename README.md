@@ -55,7 +55,7 @@ Make sure you follow our rules and regulations by reading the [code of conduct](
 ## Acknowledgements
 
 - Thanks to the developers of the LLMs for their incredible work.
-- Thanks to all contributors who have shared their prompts with the community.
+- Thanks to all [contributors](contributors.md) who have shared their prompts with the community.
 
 ---
 
