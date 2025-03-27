@@ -49,3 +49,12 @@ A curated collection of prompts for Large Language Models (LLMs) like ChatGPT, C
 ![Productivity](https://img.shields.io/badge/Category-Productivity-9acd32)
 
 > Generate a well-structured README.md file for a project titled "{Project Title}" with the following description: "{Project Description}". The README should include sections for the project title, a brief description, installation steps, usage instructions, configuration (if applicable), technologies used, contribution guidelines, license details, and contact information. Format the content using proper Markdown syntax, ensuring clarity and readability.
+
+
+---
+
+## Compose Lyrics for a song
+
+![General](https://img.shields.io/badge/Category-General-007acc)
+
+> Generate song lyrics in the style of [Genre] that capture the essence of [Mood/Theme]. The lyrics should be [Emotional/Upbeat/Dark/etc.] and include vivid imagery, storytelling, and a catchy chorus. Focus on [Topic/Story Idea] while maintaining the signature rhythm and tone of the genre.
