@@ -1,4 +1,4 @@
-![banner](banner.svg)
+![banner](proompt_vault.png)
 
 
 Welcome to **ProomptVault**, your go-to repository for curated prompts to use with large language models (LLMs). Whether you're a developer, researcher, or enthusiast, this collection of prompts will help you get the most out of your LLMs.
