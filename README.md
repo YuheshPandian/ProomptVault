@@ -40,12 +40,13 @@ We welcome contributions from the community! If you have a prompt that you would
 6. Create a Pull Request.
 
 Please ensure your prompts are well-tested and documented. Include examples and any relevant instructions.
+Also ensure that you add a category to the prompt based on the categories given in [categories.md](categories.md) file.
 
-More guidelines are enlisted in the [CONTRIBUTING.md](COnTRIBUITNG.md) file, please look onto it.
+More guidelines are enlisted in the [CONTRIBUTING.md](CONTRIBUTING.md) file, please look onto it.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 ## CODE OF CONDUCT
 

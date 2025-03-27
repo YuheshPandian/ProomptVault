@@ -12,6 +12,8 @@ Thank you for considering contributing to the **LLM Prompt Collection**! We welc
 - Follow this format when adding a new prompt:
   ```md
   ## Prompt Title
+
+  catergory badge here
   
   > provide the prompt here
   ```
