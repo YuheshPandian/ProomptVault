@@ -58,3 +58,7 @@ A curated collection of prompts for Large Language Models (LLMs) like ChatGPT, C
 ![General](https://img.shields.io/badge/Category-General-007acc)
 
 > Generate song lyrics in the style of [Genre] that capture the essence of [Mood/Theme]. The lyrics should be [Emotional/Upbeat/Dark/etc.] and include vivid imagery, storytelling, and a catchy chorus. Focus on [Topic/Story Idea] while maintaining the signature rhythm and tone of the genre.
+
+---
+
+Give a ⭐ if you find the prompts useful
