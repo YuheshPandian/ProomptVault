@@ -149,6 +149,68 @@ A curated collection of prompts for Large Language Models (LLMs) like ChatGPT, C
 >  
 > Ask me a series of questions that range in difficulty—starting from basic to advanced. After each question, provide a sample “good” answer and explain what makes it strong. Optionally include follow-up questions, behavioral/HR-style questions, and technical test items if relevant. This should feel like a real interview prep session.
 
+
+## Life Coach Advice
+![Health](https://img.shields.io/badge/Category-Health-3cb371)
+> I’m going through something like [your problem]. Please talk to me like a helpful friend. Be kind, honest, and give clear advice on what I can do next.
+
+## Summarize Any Content
+![Productivity](https://img.shields.io/badge/Category-Productivity-9acd32)
+> Read this text: **[paste content]** and give me a short and clear version. Tell me the main points in simple bullet points.
+
+## Create Exam Questions
+![Education](https://img.shields.io/badge/Category-Education-1e90ff)
+> Write test questions for **[subject or topic]**. Include both multiple choice and short answers. Also show the correct answers.
+
+## Make a Meme
+![Brainstorming](https://img.shields.io/badge/Category-Brainstorming-8a2be2)
+> I want to make a funny meme about **[topic]** using [meme format]. Suggest a clever caption or idea.
+
+## Fix My Resume
+![Productivity](https://img.shields.io/badge/Category-Productivity-9acd32)
+> Here's a part of my resume: **[paste here]**. Please improve it so it looks more professional and suitable for **[job title]**.
+
+## Teach Me Like I’m 5
+![Education](https://img.shields.io/badge/Category-Education-1e90ff)
+> Teach me **[hard topic]** like I’m 5 years old. Use stories, easy words, and clear examples.
+
+## Workout Plan Generator
+![Fitness](https://img.shields.io/badge/Category-Fitness-b22222)
+> Create a simple weekly workout plan for me. My goal is **[weight loss/muscle gain/etc.]** and I can work out for [X] minutes daily.
+
+## Explain That Error
+![Debugging](https://img.shields.io/badge/Category-Debugging-d73a49)
+> This error came up: **[paste error]**. Tell me what it means, why it happened, and how to fix it in easy steps.
+
+## Movie Recommendation Bot
+![General](https://img.shields.io/badge/Category-General-007acc)
+> Suggest a good movie for me to watch when I’m feeling **[mood/genre]**. If possible, mention where I can watch it.
+
+## Idea Validator
+![Business](https://img.shields.io/badge/Category-Business-000080)
+> I have a business idea: **[short idea]**. Is it a good one? What could go right or wrong? Please give honest and helpful advice.
+
+## Turn Notes into Slides
+![Productivity](https://img.shields.io/badge/Category-Productivity-9acd32)
+> I have some notes: **[paste here]**. Can you turn them into slide titles and bullet points for a presentation?
+
+## Roleplay a Character
+![Writing](https://img.shields.io/badge/Category-Writing-fc9200)
+> Pretend to be **[character name]** from **[movie/game/show]**. Talk and reply like they would if I ask them something.
+
+## Create Quiz Game
+![Education](https://img.shields.io/badge/Category-Education-1e90ff)
+> Make a quiz about **[topic]** with 5–10 fun questions. Show the answer and give points as I go.
+
+## Explain a Meme Format
+![General](https://img.shields.io/badge/Category-General-007acc)
+> I saw this meme: **[link or name]**. What does it mean? Where did it come from? Show me how it’s used.
+
+## Generate a Prompt for Me
+![Prompt Engineering](https://img.shields.io/badge/Category-Prompt%20Engineering-ff1493)
+> I want to do **[goal]** using AI like ChatGPT. Can you write a clear and useful prompt that I can copy and use to get good results?
+
+
 ---
 
 
